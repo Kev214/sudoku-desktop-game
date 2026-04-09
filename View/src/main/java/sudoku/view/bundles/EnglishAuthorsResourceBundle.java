@@ -8,7 +8,7 @@ public class EnglishAuthorsResourceBundle extends ListResourceBundle {
     protected Object[][] getContents() {
         return new Object[][] {
                 { "university", "Lodz University of Technology" },
-                { "247026", "Oskar Kacprzak" },
+                { "247026", "Kevin Patel" },
                 { "247027", "Wojciech Kapica" },
         };
 
